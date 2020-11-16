@@ -843,7 +843,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1 -disablegfxfirmware -dart=0 -nv_disable=1 -lilubetaall shikigva=40 darkwake=0</string>
+				<string>keepsyms=1 debug=0x100 alcid=1 -disablegfxfirmware -dart=0 -nv_disable=1 -lilubetaall shikigva=40 darkwake=0 rtcfx_exclude=58-59,B0-B3,D0-DF</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
